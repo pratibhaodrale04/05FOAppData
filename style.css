@@ -37,6 +37,7 @@
     width: 200px;
     margin: 10px;
     padding-bottom: 05px;
+    word-wrap: break-word;
 }
 
 .rest-cards:hover{

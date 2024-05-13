@@ -64,8 +64,6 @@ const RestaurantCardComponent = (props)=>{
     </>
 }
 
-
-
 // Restaurant data
 const restListData =  [
     {
@@ -1400,7 +1398,6 @@ const restListData =  [
       }
     }
   ]
-
 
 //2. BodyComponent
 const BodyComponent = ()=>{
